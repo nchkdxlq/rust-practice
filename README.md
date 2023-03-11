@@ -1,2 +1,2 @@
 # rust-practice
-record practice of learn rust
+the record of practice rust
